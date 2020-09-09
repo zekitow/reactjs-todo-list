@@ -1,0 +1,11 @@
+.todoInput {
+  width: 100%;
+  margin: 0;
+  height: 2em;
+  border: 1px solid #DDD;
+}
+
+.todoInput:focus {
+  outline-style: dashed;
+  outline-color: #888;
+}

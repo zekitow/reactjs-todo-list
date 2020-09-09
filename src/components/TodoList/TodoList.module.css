@@ -1,0 +1,15 @@
+.main {
+  margin: 0 auto;
+  padding: 1em;
+  width: 90%;
+  max-width: 450px;
+}
+
+.main h1 {
+  text-align: center;
+}
+
+.mainList {
+  padding: 0.5em;
+  margin: 0;
+}
